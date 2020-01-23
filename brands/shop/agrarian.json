@@ -9,6 +9,17 @@
       "shop": "agrarian"
     }
   },
+  "shot/agrarian|Princess Auto": {
+    "countryCodes": ["ca"],
+    "tags": {
+      "agrarian": "tools",
+      "brand": "Princess Auto",
+      "brand:wikidata": "Q7244554",
+      "brand:wikipedia": "en:Princess Auto"
+      "name": "Princess Auto",
+      "shop": "agrarian"
+    }
+  },
   "shop/agrarian|Southern States": {
     "countryCodes": ["us"],
     "tags": {
